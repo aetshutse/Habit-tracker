@@ -2,6 +2,10 @@
 
 A simple weekly habit tracker built with React, TypeScript, and Vite. Add habits, mark the days you complete them, and keep your progress saved in your browser.
 
+## Demo
+
+![Habit Tracker demo](docs/demo.gif)
+
 ## Features
 
 - Add and delete habits

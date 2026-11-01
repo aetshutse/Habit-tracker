@@ -27,7 +27,7 @@ export function Button({
 function getVariantStyles(variant: Variant) {
   switch (variant) {
     case "primary":
-      return "bg-violet-600 hover:bg-violet-500"
+      return "bg-sky-600 hover:bg-sky-500"
     case "secondary":
       return "bg-zinc-700 hover:bg-zinc-600 text-zinc-400"
     case "ghost-destructive":
